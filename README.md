@@ -2,6 +2,8 @@
 
 This project implements a voice-based customer service bot for an e-commerce platform. The bot uses advanced AI to understand and respond to customer inquiries naturally, providing a seamless shopping experience.
 
+https://github.com/user-attachments/assets/7847e0d5-e0c7-45ca-bfe7-eb9a99662fd6
+
 ## Features
 
 - **Voice-Based Interaction**: Customers can speak naturally to ask questions and get assistance
