@@ -134,3 +134,6 @@ For testing purposes, the application includes:
 ## License
 
 This project is released under the MIT License.
+
+## Author
+Mazka Buana Hidayat
