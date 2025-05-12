@@ -133,9 +133,5 @@ For testing purposes, the application includes:
 - Multi-language support
 - Voice biometrics for authentication
 
-## License
-
-This project is released under the MIT License.
-
 ## Author
 Mazka Buana Hidayat
